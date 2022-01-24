@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CocheApp", "CocheApp\CocheApp.csproj", "{8ADBD0FC-5684-41E7-9C48-2D5EE21AC172}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCoche", "TestCoche\TestCoche.csproj", "{23C7C3AE-8228-4BF3-8CC3-A34B85156E4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ADBD0FC-5684-41E7-9C48-2D5EE21AC172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ADBD0FC-5684-41E7-9C48-2D5EE21AC172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ADBD0FC-5684-41E7-9C48-2D5EE21AC172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ADBD0FC-5684-41E7-9C48-2D5EE21AC172}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23C7C3AE-8228-4BF3-8CC3-A34B85156E4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23C7C3AE-8228-4BF3-8CC3-A34B85156E4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23C7C3AE-8228-4BF3-8CC3-A34B85156E4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23C7C3AE-8228-4BF3-8CC3-A34B85156E4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C8BD9C0-1BC9-4CC2-89FB-57EF6CF6338A}
+	EndGlobalSection
+EndGlobal
